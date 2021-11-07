@@ -452,6 +452,7 @@ timestamp = speed();
 *┃◗ Thank To Ortu*
 *┃◗ Thank To Zero YT7 (Creator)*
 *┃◗ Thanks To All Subscriberku*
+*┃◗ Thanks To 𝑲𝒂𝒈𝒆𝒕𝒔𝒕𝒐𝒓𝒆 [𝒄𝒓𝒆𝒂𝒕𝒐𝒓]*
 *┗━━━━━━━ •*`
                   but = [
           { buttonId: `${prefix}owner`, buttonText: { displayText: '☰ OWNER' }, type: 1 },
@@ -907,11 +908,10 @@ case 'sc':
 teks = 
 `*Bot Ini Menggunakan Sourcecode*
 ╭─────────────────────
-├ Sc Ori = https://github.com/Zero-YT7/Base-ZeroYT7
-├ Sc Full Fitur = https://youtube.com/ZeroYT7
+├ Sc Ori = 𝑲𝑬𝑷𝑶 𝑩𝑨𝑵𝑮𝑬𝑻
 ├─────────────────────
-├ Creator Base = Zero YT7
-├ Creator Sc = Zero YT7
+├ Creator Base = 𝑲𝑨𝑮𝑬𝑻𝑺𝑻𝑶𝑹𝑬
+├ Creator Sc = 𝑲𝑨𝑮𝑬𝑻𝑺𝑻𝑶𝑹𝑬
 └─────────────────────`
 zeroyt7.sendMessage(from, teks, text, {quoted: ftrol})
 break
