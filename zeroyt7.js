@@ -847,7 +847,6 @@ hehe = await zeroyt7.sendMessage(from, {
 "contacts": inilist 
 }, 'contactsArrayMessage', { quoted: ftrol })
 button = [
-  {buttonId: '.youtube', buttonText: {displayText: '☰ YOUTUBE'}, type: 1},
   {buttonId: '.instagram', buttonText: {displayText: '☰ INSTAGRAM'}, type: 1},
   {buttonId: '.tiktok', buttonText: {displayText: '☰ TIKTOK'}, type: 1}
 ]
@@ -886,11 +885,6 @@ contextInfo: { mentionedJid: [nomor] },
 }
 zeroyt7.sendMessage(`6285157740529@s.whatsapp.net`, options, text, { quoted: ftrol })
 reply('Masalah Telah Di Laporkan Ke Owner BOT, Mohon Tunggu Untuk Proses Perbaikan')
-break
-case 'youtube':
-teks =
-`Nih Youtube Owner Ku Jangan Lupa Di Subscribe Ya https://youtube.com/ZeroYT7`
-zeroyt7.sendMessage(from, teks, text, {quoted: ftrol})
 break
 case 'instagram':
 teks =
